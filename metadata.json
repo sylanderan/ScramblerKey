@@ -1,0 +1,9 @@
+
+{
+  "name": "ScramblerKey - Side-Channel Resistant Virtual Keyboard",
+  "description": "A cybersecurity demo application featuring a dynamic, non-deterministic virtual keyboard designed to mitigate screen-logging and coordinate replay attacks through server-side coordinate decoding and layout randomization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
