@@ -1,5 +1,5 @@
 ---
-title: "ScramblerKey: A Non-Deterministic Randomized Keyboard for Secure Password Entry"
+title: "ScramblerKey: A Randomized Keyboard for Secure Password Entry Using MERN STACK"
 tags:
   - cybersecurity
   - authentication
